@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="logo">
-                        <h1><a href="#"><img src="img/logo.png"></a></h1>
+                        <h1><a href="#"><img src="/res/site/img/logo.png"></a></h1>
                     </div>
                 </div>
                 
@@ -126,7 +126,7 @@
                         <div class="product-carousel">
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="img/product-1.jpg" alt="">
+                                    <img src="/res/site/img/product-1.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -141,7 +141,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="img/product-2.jpg" alt="">
+                                    <img src="/res/site/img/product-2.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -155,7 +155,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="img/product-3.jpg" alt="">
+                                    <img src="/res/site/img/product-3.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="img/product-4.jpg" alt="">
+                                    <img src="/res/site/img/product-4.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -185,7 +185,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="img/product-5.jpg" alt="">
+                                    <img src="/res/site/img/product-5.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -200,7 +200,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="img/product-6.jpg" alt="">
+                                    <img src="/res/site/img/product-6.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -227,14 +227,14 @@
                 <div class="col-md-12">
                     <div class="brand-wrapper">
                         <div class="brand-list">
-                            <img src="img/brand1.png" alt="">
-                            <img src="img/brand2.png" alt="">
-                            <img src="img/brand3.png" alt="">
-                            <img src="img/brand4.png" alt="">
-                            <img src="img/brand5.png" alt="">
-                            <img src="img/brand6.png" alt="">
-                            <img src="img/brand1.png" alt="">
-                            <img src="img/brand2.png" alt="">                            
+                            <img src="/res/site/img/brand1.png" alt="">
+                            <img src="/res/site/img/brand2.png" alt="">
+                            <img src="/res/site/img/brand3.png" alt="">
+                            <img src="/res/site/img/brand4.png" alt="">
+                            <img src="/res/site/img/brand5.png" alt="">
+                            <img src="/res/site/img/brand6.png" alt="">
+                            <img src="/res/site/img/brand1.png" alt="">
+                            <img src="/res/site/img/brand2.png" alt="">                            
                         </div>
                     </div>
                 </div>
